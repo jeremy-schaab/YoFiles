@@ -20,14 +20,14 @@ A lightweight, fast Windows folder size analyzer with caching support. No more h
 ## Quick Install (Easiest Method)
 
 ### Option 1: Download Release (Recommended)
-1. Go to [Releases](https://github.com/jschaab/YoFiles/releases)
+1. Go to [Releases](https://github.com/jeremy-schaab/YoFiles/releases)
 2. Download `YoFiles.exe` 
 3. Double-click to run - no installation needed!
 
 ### Option 2: Run from Source
 ```bash
 # Clone the repository
-git clone https://github.com/jschaab/YoFiles.git
+git clone https://github.com/jeremy-schaab/YoFiles.git
 cd YoFiles
 
 # Install dependency
@@ -184,7 +184,7 @@ Created with frustration at bloated freeware and a desire for something simple t
 
 If you find this tool useful, give it a star on GitHub! 
 
-For issues or questions, please use the [GitHub Issues](https://github.com/jschaab/YoFiles/issues) page.
+For issues or questions, please use the [GitHub Issues](https://github.com/jeremy-schaab/YoFiles/issues) page.
 
 ---
 
